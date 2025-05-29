@@ -1,2 +1,0 @@
-# DTR-Calculator
-Pure HTML
